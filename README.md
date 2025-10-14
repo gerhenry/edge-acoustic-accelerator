@@ -2,6 +2,9 @@
 
 **An open-source, tapeout-friendly analog accelerator** for edge acoustic event detection.  
 It performs **band-energy feature extraction → analog MAC → Winner-Take-All (WTA)** classification to detect simple events
+
+![System Block Diagram](docs/block-diagram.svg)
+
 (e.g., clap, glass clink, speech-like energy, silence) with **µW–mW** power and **<50 ms** latency.
 
 Designed for **SKY130 / GF180** open PDKs using open EDA tools. Includes an evaluation-board plan and MCU firmware for live demos.
