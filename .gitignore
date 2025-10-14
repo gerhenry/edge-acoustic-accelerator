@@ -1,0 +1,15 @@
+# Build/EDA artifacts
+*.log
+*.out
+*.o
+*.vcd
+__pycache__/
+analog/results/
+*.raw
+*.csv
+layout/gds/*.gds
+layout/def/*.def
+layout/lef/*.lef
+layout/klayout/*.oas
+fw/.pio/
+fw/.vscode/
