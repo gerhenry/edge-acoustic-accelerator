@@ -1,0 +1,6 @@
+[submodule "third_party/skywater-pdk"]
+	path = third_party/skywater-pdk
+	url = https://github.com/google/skywater-pdk.git
+[submodule "third_party/open_pdks"]
+	path = third_party/open_pdks
+	url = https://github.com/efabless/open_pdks.git
