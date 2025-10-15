@@ -13,3 +13,10 @@ layout/lef/*.lef
 layout/klayout/*.oas
 fw/.pio/
 fw/.vscode/
+
+pdk/
+*.lef
+*.gds
+*.mag
+*.spice
+
